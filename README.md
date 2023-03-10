@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **Woler04/Woler04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-cock
+### Title 1
+## Title 2
+# Title 3
+Paragraph
+<details>
+<summary>My top languages</summary>
+
+| Rank | THING-TO-RANK |
+|-----:|:-------------:|
+|     1| c#            |
+|     2|   js          |
+|     3|   meow        |
+  
+</details>
+
+---
+> "born to quote forced to think"
