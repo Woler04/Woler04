@@ -1,6 +1,5 @@
-<h3>Hiiiiiii!!!</h3>
-<p>I am softwere developer working with c#, javascript, some unity and most importantly on learning new languages and frameworks as React, Angular, English 
-  and more yet to be found. Now I will be workin on my portfolio. This "about me" will be changed sometime soon hopefully but this is me in few words </p> 
+<h3>Greetings</h3>
+<p>I am softwere developer working with c#, javascript, some unity but most importantly learning new things every day. This "about me" will be changed sometime soon hopefully... </p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -9,8 +8,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=woler04&show_icons=true&locale=en" alt="woler04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=woler04&" alt="woler04" /></p>
-
-My hobbie is art
 
 
 
